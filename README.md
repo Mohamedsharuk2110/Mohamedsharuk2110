@@ -1,187 +1,207 @@
-Name: MOHAMED SHARUK
-Role: UI/UX Designer + AI & Data Science Engineering Student
-Year: 3rd Year Engineering
-Primary interests: UI/UX Design, Artificial Intelligence, Data Science, Web Development, Java, Automation and emerging technologies.
+<div align="center">
 
-Create the README in clean GitHub-compatible Markdown.
+# 👋 Hi, I'm MOHAMED SHARUK
 
-IMPORTANT:
+### UI/UX Designer | AI & Data Science Engineering Student | Developer
 
-- Make it look like a professional developer portfolio.
-- Do NOT make it childish or overly colorful.
-- Use a clean dark/professional aesthetic.
-- Keep the content concise but impressive.
-- Use proper Markdown headings.
-- Use emojis only where they improve readability.
-- Make the README visually attractive on both desktop and mobile.
-- Do not use fake achievements, fake statistics, fake companies, fake certifications or fake project claims.
-- Do not invent GitHub statistics.
-- Use placeholders where I need to insert my real links.
-- Make all image URLs and external services easy to replace.
+Third-year Artificial Intelligence & Data Science engineering student passionate about  
+building useful digital products by combining **UI/UX Design, Artificial Intelligence, Data Science and Software Development**.
 
-Structure the README exactly like this:
+I enjoy learning new technologies, designing user-focused experiences, and building practical real-world projects.
 
-1. HERO SECTION
-   Create a strong opening section with:
+<p>
+  <a href="https://github.com/Mohamedsharuk2110">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-Hi 👋, I'm MOHAMED SHARUK
+</div>
 
-A short professional tagline such as:
+---
 
-UI/UX Designer | AI & Data Science Engineering Student | Developer
+## 👨‍💻 About Me
 
-Add a 2–3 line introduction explaining that I am a 3rd year engineering student interested in building useful digital products using design, AI and technology.
+- 🎓 Pursuing a **Bachelor of Engineering in Artificial Intelligence & Data Science**
+- 📚 Currently in my **3rd Year**
+- 🎨 Interested in **UI/UX Design, Product Design and User-Centric Thinking**
+- 🤖 Exploring **Artificial Intelligence, AI Automation and AI-powered applications**
+- 📊 Interested in **Data Science, Data Analytics and Data-Driven Solutions**
+- ☕ Building my programming skills with **Java**
+- 🌐 Exploring **Web Development and Application Development**
+- 🚀 Interested in building **practical real-world projects**
+- 📚 Continuously learning and improving my technical and design skills
 
-Add buttons/links for:
+---
 
-- GitHub
-- LinkedIn
-- Portfolio
-- Email
+## 🔭 Currently Working On
 
-Use placeholders:
-YOUR_GITHUB_URL
-YOUR_LINKEDIN_URL
-YOUR_PORTFOLIO_URL
-YOUR_EMAIL
+- 🔭 Building: **[Your Current Project]**
+- 🌱 Learning: **[Technology You Are Currently Learning]**
+- 🎨 Designing: **[Your Current UI/UX Project]**
+- 🤖 Exploring: **AI & Automation**
 
-2. ABOUT ME
+> Replace the items above with your actual current projects and learning goals.
 
-Write a concise professional About Me section.
+---
 
-Mention:
+## 🛠️ Tech Stack
 
-- 3rd year engineering student
-- AI & Data Science
-- UI/UX design
-- Java
-- Web development
-- AI/automation
-- Interest in building real-world projects
-- Continuous learning
+### 💻 Languages
 
-3. CURRENTLY WORKING ON
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-Create 3–4 bullet points with realistic placeholders.
+### 🎨 Design
 
-Example:
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-000000?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design"/>
+</p>
 
-- 🔭 Building: [Project Name]
-- 🌱 Learning: [Technology]
-- 🎨 Designing: [UI/UX Project]
-- 🤖 Exploring: AI & Automation
+### 🤖 AI & Data
 
-Do not invent actual project names.
+<p>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Data_Science-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+</p>
 
-4. TECH STACK
+### 🔧 Tools
 
-Create organized categories:
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
 
-Languages:
-Java, Python, JavaScript, HTML, CSS
+---
 
-Design:
-Figma, UI/UX Design
+## 🚀 Featured Projects
 
-AI / Data:
-Artificial Intelligence, Data Science, Machine Learning
+### 📌 Project 01 — [Project Name]
 
-Tools:
-Git, GitHub, VS Code
+**Description:**  
+[Write a short description of your actual project here.]
 
-Add technology badges using shields.io where appropriate.
+**Tech Stack:**  
+`[Technology 1]` ` [Technology 2]` ` [Technology 3]`
 
-5. FEATURED PROJECTS
+**Links:**  
+[GitHub Repository](YOUR_PROJECT_01_GITHUB_URL) • [Live Demo](YOUR_PROJECT_01_LIVE_URL)
 
-Create a professional project showcase section with 4 project cards/sections.
+---
 
-Use placeholders:
+### 📌 Project 02 — [Project Name]
 
-Project 01
-Project Name
-Short description
-Tech stack
-GitHub link
-Live demo link
+**Description:**  
+[Write a short description of your actual project here.]
 
-Project 02
-Project Name
-Short description
-Tech stack
-GitHub link
-Live demo link
+**Tech Stack:**  
+`[Technology 1]` ` [Technology 2]` ` [Technology 3]`
 
-Project 03
-Project Name
-Short description
-Tech stack
-GitHub link
-Live demo link
+**Links:**  
+[GitHub Repository](YOUR_PROJECT_02_GITHUB_URL) • [Live Demo](YOUR_PROJECT_02_LIVE_URL)
 
-Project 04
-Project Name
-Short description
-Tech stack
-GitHub link
-Live demo link
+---
 
-Do NOT invent projects.
+### 📌 Project 03 — [Project Name]
 
-6. GITHUB STATISTICS
+**Description:**  
+[Write a short description of your actual project here.]
 
-Add a professional GitHub statistics section.
+**Tech Stack:**  
+`[Technology 1]` ` [Technology 2]` ` [Technology 3]`
 
-Use:
+**Links:**  
+[GitHub Repository](YOUR_PROJECT_03_GITHUB_URL) • [Live Demo](YOUR_PROJECT_03_LIVE_URL)
 
-- GitHub Stats
-- Top Languages
-- Streak Stats
+---
 
-Use dynamic GitHub-compatible services only if they are currently valid.
+### 📌 Project 04 — [Project Name]
 
-Use my username placeholder:
+**Description:**  
+[Write a short description of your actual project here.]
 
-YOUR_GITHUB_USERNAME
+**Tech Stack:**  
+`[Technology 1]` ` [Technology 2]` ` [Technology 3]`
 
-Keep these statistics visually clean and aligned.
+**Links:**  
+[GitHub Repository](YOUR_PROJECT_04_GITHUB_URL) • [Live Demo](YOUR_PROJECT_04_LIVE_URL)
 
-7. CONTRIBUTION GRAPH
+---
 
-Add a section:
+## 📊 GitHub Statistics
 
-📈 Contribution Activity
+<div align="center">
 
-Use a GitHub contribution activity visualization if possible.
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamedsharuk2110&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
 
-8. SKILLS
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsharuk2110&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
 
-Create a clean table:
+</div>
 
-Skill| Level/Focus
-UI/UX Design| Interface & User Experience
-Java| Programming
-Python| AI & Data
-Web Development| Frontend
-Git & GitHub| Version Control
-AI| Exploration & Projects
+---
 
-Do not assign fake percentages.
+## 🔥 GitHub Streak
 
-9. CONNECT WITH ME
+<div align="center">
 
-Add:
-GitHub
-LinkedIn
-Portfolio
-Email
+<img src="https://streak-stats.demolab.com?user=Mohamedsharuk2110&hide_border=true" alt="GitHub Streak"/>
 
-Use placeholders for all links.
+</div>
 
-10. FOOTER
+---
 
-Create a simple professional footer:
+## 📈 Contribution Activity
 
-"Thanks for visiting my profile! Let's build something meaningful together. 🚀"
+<div align="center">
 
-Add a profile visitor counter only if it uses a reliable, currently working service.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedsharuk2110&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
 
+</div>
+
+---
+
+## 🧠 Skills
+
+| Skill | Level / Focus |
+|---|---|
+| 🎨 UI/UX Design | Interface & User Experience |
+| ☕ Java | Programming |
+| 🐍 Python | AI & Data |
+| 🌐 Web Development | Frontend |
+| 🔧 Git & GitHub | Version Control |
+| 🤖 Artificial Intelligence | Exploration & Projects |
+| 📊 Data Science | Data & Analytics |
+| ⚙️ Automation | AI & Workflow Automation |
+
+---
+
+## 🎯 Areas of Interest
+
+```text
+UI/UX Design
+      ↓
+Product Design
+      ↓
+Artificial Intelligence
+      ↓
+Data Science
+      ↓
+Web & Application Development
+      ↓
+Automation
