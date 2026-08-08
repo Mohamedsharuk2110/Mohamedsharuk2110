@@ -4,10 +4,15 @@
 
 ### UI/UX Designer | AI & Data Science Engineering Student | Developer
 
-Third-year Artificial Intelligence & Data Science engineering student passionate about  
-building useful digital products by combining **UI/UX Design, Artificial Intelligence, Data Science and Software Development**.
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;AI+%26+Data+Science+Engineering+Student;Java+Developer;AI+%26+Automation+Enthusiast;Building+Real-World+Projects" alt="Typing Animation"/>
+</p>
 
-I enjoy learning new technologies, designing user-focused experiences, and building practical real-world projects.
+<p>
+Third-year Artificial Intelligence & Data Science engineering student passionate about
+building useful digital products by combining <b>UI/UX Design, Artificial Intelligence,
+Data Science and Software Development.</b>
+</p>
 
 <p>
   <a href="https://github.com/Mohamedsharuk2110">
@@ -49,8 +54,6 @@ I enjoy learning new technologies, designing user-focused experiences, and build
 - 🎨 Designing: **[Your Current UI/UX Project]**
 - 🤖 Exploring: **AI & Automation**
 
-> Replace the items above with your actual current projects and learning goals.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -58,89 +61,113 @@ I enjoy learning new technologies, designing user-focused experiences, and build
 ### 💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### 🎨 Design
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-000000?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-000000?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ### 🤖 AI & Data
 
 <p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
-  <img src="https://img.shields.io/badge/Data_Science-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Science-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
 ### 🔧 Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📌 Project 01 — [Project Name]
+<details>
+<summary><b>📌 Project 01 — [Project Name]</b></summary>
+
+### [Project Name]
 
 **Description:**  
-[Write a short description of your actual project here.]
+[Write your actual project description here.]
 
 **Tech Stack:**  
 `[Technology 1]` ` [Technology 2]` ` [Technology 3]`
 
-**Links:**  
-[GitHub Repository](YOUR_PROJECT_01_GITHUB_URL) • [Live Demo](YOUR_PROJECT_01_LIVE_URL)
+**GitHub:** [Repository](YOUR_PROJECT_01_GITHUB_URL)
 
----
+**Live Demo:** [View Project](YOUR_PROJECT_01_LIVE_URL)
 
-### 📌 Project 02 — [Project Name]
+</details>
+
+<br>
+
+<details>
+<summary><b>📌 Project 02 — [Project Name]</b></summary>
+
+### [Project Name]
 
 **Description:**  
-[Write a short description of your actual project here.]
+[Write your actual project description here.]
 
 **Tech Stack:**  
 `[Technology 1]` ` [Technology 2]` ` [Technology 3]`
 
-**Links:**  
-[GitHub Repository](YOUR_PROJECT_02_GITHUB_URL) • [Live Demo](YOUR_PROJECT_02_LIVE_URL)
+**GitHub:** [Repository](YOUR_PROJECT_02_GITHUB_URL)
 
----
+**Live Demo:** [View Project](YOUR_PROJECT_02_LIVE_URL)
 
-### 📌 Project 03 — [Project Name]
+</details>
+
+<br>
+
+<details>
+<summary><b>📌 Project 03 — [Project Name]</b></summary>
+
+### [Project Name]
 
 **Description:**  
-[Write a short description of your actual project here.]
+[Write your actual project description here.]
 
 **Tech Stack:**  
 `[Technology 1]` ` [Technology 2]` ` [Technology 3]`
 
-**Links:**  
-[GitHub Repository](YOUR_PROJECT_03_GITHUB_URL) • [Live Demo](YOUR_PROJECT_03_LIVE_URL)
+**GitHub:** [Repository](YOUR_PROJECT_03_GITHUB_URL)
 
----
+**Live Demo:** [View Project](YOUR_PROJECT_03_LIVE_URL)
 
-### 📌 Project 04 — [Project Name]
+</details>
+
+<br>
+
+<details>
+<summary><b>📌 Project 04 — [Project Name]</b></summary>
+
+### [Project Name]
 
 **Description:**  
-[Write a short description of your actual project here.]
+[Write your actual project description here.]
 
 **Tech Stack:**  
 `[Technology 1]` ` [Technology 2]` ` [Technology 3]`
 
-**Links:**  
-[GitHub Repository](YOUR_PROJECT_04_GITHUB_URL) • [Live Demo](YOUR_PROJECT_04_LIVE_URL)
+**GitHub:** [Repository](YOUR_PROJECT_04_GITHUB_URL)
+
+**Live Demo:** [View Project](YOUR_PROJECT_04_LIVE_URL)
+
+</details>
 
 ---
 
@@ -148,9 +175,9 @@ I enjoy learning new technologies, designing user-focused experiences, and build
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamedsharuk2110&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamedsharuk2110&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsharuk2110&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsharuk2110&layout=compact&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
@@ -166,11 +193,27 @@ I enjoy learning new technologies, designing user-focused experiences, and build
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedsharuk2110&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedsharuk2110&hide_border=true&area=true&custom_title=MOHAMED%20SHARUK%20-%20Contribution%20Activity" width="95%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+### Watch my contributions come alive! 🚀
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamedsharuk2110/Mohamedsharuk2110/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamedsharuk2110/Mohamedsharuk2110/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Mohamedsharuk2110/Mohamedsharuk2110/output/github-snake.svg" width="95%">
+</picture>
 
 </div>
 
@@ -193,15 +236,55 @@ I enjoy learning new technologies, designing user-focused experiences, and build
 
 ## 🎯 Areas of Interest
 
-```text
-UI/UX Design
-      ↓
-Product Design
-      ↓
-Artificial Intelligence
-      ↓
-Data Science
-      ↓
-Web & Application Development
-      ↓
-Automation
+<p align="center">
+
+`UI/UX Design` → `Product Design` → `Artificial Intelligence`
+
+`Data Science` → `Application Development` → `Automation`
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- ☕ Advanced Java
+- 🔧 Git & GitHub
+- 🤖 AI-powered Applications
+- 📊 Data Science & Analytics
+- 🎨 UI/UX & Product Design
+- 🌐 Modern Web Development
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Mohamedsharuk2110">
+<img src="https://img.shields.io/badge/GitHub-Mohamedsharuk2110-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building. Learning. Designing. Innovating.
+
+**Thanks for visiting my profile! Let's build something meaningful together. 🚀**
+
+</div>
