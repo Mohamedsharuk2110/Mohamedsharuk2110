@@ -49,9 +49,9 @@ Data Science and Software Development.</b>
 
 ## 🔭 Currently Working On
 
-- 🔭 Building: **[Your Current Project]**
-- 🌱 Learning: **[Technology You Are Currently Learning]**
-- 🎨 Designing: **[Your Current UI/UX Project]**
+- 🔭 Building: **Al-Powered Assignment Evaluation & Human-in-the-Loop Grading System System Architecture**
+- 🌱 Learning: **RAG**
+- 🎨 Designing: **Web Site Desgining**
 - 🤖 Exploring: **AI & Automation**
 
 ---
