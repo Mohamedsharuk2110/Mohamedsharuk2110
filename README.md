@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm MOHAMED SHARUK
 
-### UI/UX Designer | AI & Data Science Engineering Student | Developer
+### AI & Data Science Engineering Student | Developer
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;AI+%26+Data+Science+Engineering+Student;Java+Developer;AI+%26+Automation+Enthusiast;Building+Real-World+Projects" alt="Typing Animation"/>
